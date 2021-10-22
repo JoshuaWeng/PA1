@@ -1,4 +1,4 @@
 url: url.cpp version.cpp version.h
 	g++ url.cpp version.cpp version.h -o url
 #url: url.cpp
-#	g++ url.cpp -o urlasd
+#	g++ url.cpp -o url
